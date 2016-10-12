@@ -1,6 +1,6 @@
 # MultiColumnTableUsingSwift3
 
-Multi column table using swift will allow you to create a multiple tables in swift 3.0.
+Multi column table using swift, will allow you to create a multiple columns with header in swift 3.0.
 I have done it in very simple way, so that everybody can understand the flow.
 
 Implemenation Details:
